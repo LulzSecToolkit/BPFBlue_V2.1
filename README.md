@@ -12,7 +12,7 @@ BPFBlue is a powerful passive security monitoring tool built using eBPF (Extende
 - Monitor specific ports for potential malicious activity.
 - Easy-to-use menu-driven interface with colorful output.
 
-## Table of Contents
+## Table of Contents 
 - [Updates](#updates)
 - [Usage](#usage)
 - [License](#license)
